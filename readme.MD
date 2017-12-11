@@ -19,3 +19,9 @@ Follow along with the course linked above. To start the server:
 npm install
 npm start
 ```
+
+
+
+Memo
+---------------
+https://github.com/jmcooper/ng2-fundamentals
