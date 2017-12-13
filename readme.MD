@@ -25,3 +25,4 @@ npm start
 Memo
 ---------------
 https://github.com/jmcooper/ng2-fundamentals
+https://github.com/jmcooper/angular2-fundamentals-files
